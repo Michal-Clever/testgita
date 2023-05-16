@@ -1,5 +1,5 @@
-public void logowanie(){
-	Sytem.out.println("Podaj nazwę użytkownika");
+public void logowaniemicrosoft(){
+	Sytem.out.println("Podaj nazwę użytkownika Microsoft");
 	Sytem.out.println("Podaj hasło");
 	Sytem.out.println("Kliknij na przycisk zaloguj");
 }
