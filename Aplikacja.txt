@@ -8,5 +8,4 @@ public void logowanieGoogle(){
 	Sytem.out.println("Podaj hasło");
 	Sytem.out.println("Kliknij na przycisk zaloguj");
 }
-
 Hello World
